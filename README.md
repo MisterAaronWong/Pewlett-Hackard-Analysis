@@ -9,17 +9,17 @@ Additionally, employees eligible for participating in the mentorship program wer
 The results of the analysis determined that:
 - There are 90,398 employees with impending retirement out of the 300,024 total amount of unique employees at Pewlett Hackard. This encompasses around 30.1% of the total amount of employees. Below shows the query codes for both those who are retiring and the total amount of employees.
 
-![expecting_retirement_code](expecting_retirement_code.png)
-![total_employees](total_employees.png)
+![expecting_retirement_code](Resources/expecting_retirement_code.png)
+![total_employees](Resources/total_employees.png)
 
 - The job title with the highest number of employees with forthcoming retirement is "Senior Engineer". There are 29,414 Senior Engineers eligible for retirement. This covers around 32.5% of titles of those who are retiring soon. Senior Staff represent around 31.3% of those retiring, those with the title "Engineer" represent around 15.7%, 13.5% are Staff, Technique Leaders comprise about 5%, and Managers are very miniscule.
 
-![title_retiring](title_retiring.png)
+![title_retiring](Resources/title_retiring.png)
 
 - There are 1,549 employees eligible for the mentorship program. This number represents the number of *mentorees* who will be mentored by the 90,398 retiring employees, the mentors.
 - This would mean that there is around a 58:1 ratio of mentors to mentorees.  
 
-![mentorship](mentorship.png)
+![mentorship](Resources/mentorship.png)
 
 ## Summary
 Since there are 90,398 employees expected to retire soon, Pewlett Hackard should highly consider beginning to interview applicants to usher in the next generation of employees to accomodate for those retiring. As these employees retire, existing employees may be promoted into those roles, or perhaps Pewlett Hackard may decide to hire externally to fill roles. However, the mass exodus may not happen all in the same year. The current age for those eligible to reitre in the US is 66 and 2 months for those born in 1955 and earlier. It is not always guaranteed that employees will retire once immmediately eligible. Nonetheless, this is still a significant number of roles to fill. Therefore, Pewlett Hackard should assess the positions of those with forthcoming retirement to decide on which roles they will need to fill. It is natural for exisiting employees to move up and take on vacancies left by those who retire. An additonal query that could be run is to find the titles of existing employees who are not retiring soon. This way, it can be analyzed how many senior positions could be filled by exisitn gemployees and thus, we can determine how many junior position vacancies will open that Pewlett hackard can hire externally from.
